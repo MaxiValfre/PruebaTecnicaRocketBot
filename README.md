@@ -23,7 +23,7 @@ Asegúrate de tener el [ChromeDriver](https://sites.google.com/chromium.org/driv
 
 1. **Clona el repositorio** (si aplica):
    ```bash
-   git clone (https://github.com/MaxiValfre/PruebaTecnicaRocketBot.git)
+   git clone https://github.com/MaxiValfre/PruebaTecnicaRocketBot.git
 2. **Instala las dependencias**
    ```bash
    pip install xlwings selenium
