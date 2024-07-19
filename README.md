@@ -23,7 +23,7 @@ Asegúrate de tener el [ChromeDriver](https://sites.google.com/chromium.org/driv
 
 1. **Clona el repositorio** (si aplica):
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone (https://github.com/MaxiValfre/PruebaTecnicaRocketBot.git)
 2. **Instala las dependencias**
    ```bash
    pip install xlwings selenium
@@ -59,3 +59,4 @@ La función enviar_correo utiliza SMTP para enviar los correos. Asegúrate de qu
 ## Consideraciones
 - Maximización del navegador: La ventana del navegador se maximiza al iniciar para facilitar la visualización durante la automatización.
 - Intervalo entre filas: El script espera 1 segundo entre el procesamiento de cada fila para reducir la carga en el servidor web y mejorar la estabilidad.
+- El mail se envia como html y text
